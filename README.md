@@ -13,10 +13,6 @@ A modern web application that leverages machine learning to recommend the best c
 
 --------------------------------------------------------
 
-## 🌐 Live Demo
-https://smart-crop-recommendation-vkrk.onrender.com
---------------------------------------------------------
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -80,8 +76,8 @@ You can deploy this app for free on platforms like [Render](https://render.com/)
 --------------------------------------------------------
 
 ## 👨‍💻 Author
-**Praneeth Kalyan Gurramolla**  
-[GitHub](https://github.com/218r1a7230)  
+**Uday Rao Marigidda**  
+[GitHub](https://github.com/uday-843)  
 
 --------------------------------------------------------
 
@@ -91,9 +87,9 @@ This project is for educational and demonstration purposes.
 --------------------------------------------------------
 
 📞 Contact
-👨‍💻 Developer: Praneeth Kalyan Gurramolla
-📧 Email: 218r1a7230.cmrec@gmail.com
-📌 GitHub: https://github.com/218r1a7230
+👨‍💻 Developer: Uday Rao Marigidda
+📧 Email: udayraomarigidda@gmail.com
+📌 GitHub: https://github.com/uday-843
 
 --------------------------------------------------------
 
